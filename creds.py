@@ -2,11 +2,12 @@
 import os
 
 #Alexa Settings
-ProductID = ""
-Security_Profile_Description =""
-Security_Profile_ID  = ""
-Client_ID = ""
-Client_Secret = ""
+ProductID = "IntelEdison"
+Security_Profile_Description ="IntelEdison"
+Security_Profile_ID  = "amzn1.application.50a8b03bc4d0476e9890cb67609ebee0"
+Client_ID = "amzn1.application-oa2-client.3c92bba8c0264ff0b0534143e30c6996"
+Client_Secret = "31e149bf8f749265fa36c7cf3e26f5c854e0bbb61f44dea00166b7b4474daad6"
 
 # Alexa Refresh Token
 refresh_token = ''
+refresh_token = "Atzr|IwEBIOTqgwdbqkSHtt6YPGAAucwnZQhXY5BIsyXSzXDfl21Y8GzcNb6IhzGk3poVZ_UcerzLgUWcvX8Z7Px78aE2dX94h20EaIn63nT08Ab1IxKsE6XBbUkUleipcSGHw68PB3uVUhURD9KJBjAhWxdh11hOKQ0LJusjzggqZzQk-4GnoXJnFFBdVWfBl8p3TKcar0w0bT1pf9x6xhQqDIMlIdbfGPxaFzEAonhgsR-ltXtyt6mK93rzT28BZh_wOmeEUHCOGeSbI0v9CEIl4F0-M9i3EWvH4_Bj6PIw46H-9wIRnBn9Zt1RWTZRjw7XbR-DcgiZJVceX1SDfn_kJCp3be4-WDvBdHVe0GbWdylBCyhd8Y_8WjjHRfaLS_aQEgkSd9BOeRvHFKkkCrO1GV1byE-PjWag9z8JwIDG5P8FAng_v8xfMkbiEatx20__eP2UVnBBn4Yo-J5AfMvFenST_TpGoWGq_W0tU8U0fNaltF1OvaSGR0hMUXaFU3kx3mBdc6SQyboPyRQM4il9ekbk5ZpqOSNlGtYYJNKPrh5C5kTv-w"
